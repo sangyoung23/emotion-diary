@@ -167,7 +167,7 @@ header button {
 .DiaryItem .diary_date {
   font-weight: bold;
   font-size: 25px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .DiaryItem .diary_content_preview {
