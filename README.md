@@ -1,3 +1,9 @@
+## 📋 감정 일기장 (firebase 배포 완료)
+
+<img width="731" alt="스크린샷 2022-11-13 오전 12 45 26" src="https://user-images.githubusercontent.com/76932869/201482159-12669d02-81de-4314-8a83-910687757371.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
